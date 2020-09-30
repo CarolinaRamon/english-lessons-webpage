@@ -1,0 +1,27 @@
+#titulo1 {margin-left: 20px; border: 3px solid darkgreen; text-align: center; font-size: 40px; font-family: lucida handwriting, times new roman, arial; background-color: red}
+
+#titulo1:hover {border: 5px dotted yellow; font-size: 60px; background-color: pink}
+
+h1 {border: 3px solid black; font-size: 70px; font-family: arial; color: white; text-align: center; text-shadow: 5px 5px 2px black; padding: 20px}
+
+h3 {font-size: 30px; border-style: inset; border-color: aquamarine; border-bottom-width: 15px; border-right-width:15px; border-top-width: 7px; border-left-width: 7px; width: 390px; padding: 10px; text-align: center; margin: auto}
+
+body {padding-left: 40px; background-color: #90EE90}
+
+footer {text-align: center; background-color: orange}
+
+ol {font-size: 20px; border-left-color: goldenrod; border-right-color: fuchsia; border-bottom-color: hotpink; border-top-color: indigo; border-width: 6px; border-left-style: dotted; border-right-style: dashed; border-bottom-style: solid; border-top-style: double; width: fit-content; padding: 30px; margin: auto}
+
+.intro {font-size: 25px; border: 6px solid mediumorchid; padding: 5px; text-align: center; border-radius: 20px; background-color: antiquewhite}
+
+li {margin: 10px}
+
+li:hover {background-color: chartreuse}
+
+html {cursor: default}
+
+p {margin-left: 80px; margin-top:50px; font-size: 20px; width: fit-content}
+
+
+
+
