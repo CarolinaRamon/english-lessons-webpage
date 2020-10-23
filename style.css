@@ -6,21 +6,22 @@ h1 {border: 3px solid black; font-size: 70px; font-family: arial; color: white; 
 
 h3 {font-size: 30px; border-style: inset; border-color: aquamarine; border-bottom-width: 15px; border-right-width:15px; border-top-width: 7px; border-left-width: 7px; width: 390px; padding: 10px; text-align: center; margin: auto}
 
-body {padding-left: 40px; background-color: #90EE90}
+body {padding-left: 40px; background-color: #a0dc9a}
 
-footer {text-align: center; background-color: orange}
+footer {text-align: center; background-color: #ffb700}
 
-ol {font-size: 20px; border-left-color: goldenrod; border-right-color: fuchsia; border-bottom-color: hotpink; border-top-color: indigo; border-width: 6px; border-left-style: dotted; border-right-style: dashed; border-bottom-style: solid; border-top-style: double; width: fit-content; padding: 30px; margin: auto}
+ol {font-size: 20px; border-color: #ec9318; border-width: 6px; border-style: solid; width: fit-content; padding: 30px; margin: auto}
 
 .intro {font-size: 25px; border: 6px solid mediumorchid; padding: 5px; text-align: center; border-radius: 20px; background-color: antiquewhite}
 
 li {margin: 10px}
 
-li:hover {background-color: chartreuse}
+li:hover {background-color: #ec18ad}
 
 html {cursor: default}
 
 p {margin-left: 80px; margin-top:50px; font-size: 20px; width: fit-content}
+
 
 
 
