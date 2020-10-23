@@ -1,22 +1,22 @@
-#titulo1 {margin-left: 20px; border: 3px solid darkgreen; text-align: center; font-size: 40px; font-family: lucida handwriting, times new roman, arial; background-color: red}
+#titulo1 {text-align: center; font-size: 40px; font-family: lucida handwriting, times new roman, arial; background-color: #138819}
 
 #titulo1:hover {border: 5px dotted yellow; font-size: 60px; background-color: pink}
 
 h1 {border: 3px solid black; font-size: 70px; font-family: arial; color: white; text-align: center; text-shadow: 5px 5px 2px black; padding: 20px}
 
-h3 {font-size: 30px; border-style: inset; border-color: aquamarine; border-bottom-width: 15px; border-right-width:15px; border-top-width: 7px; border-left-width: 7px; width: 390px; padding: 10px; text-align: center; margin: auto}
+h3 {font-size: 30px; border-style: inset; border-color: aquamarine; border-width: 15px; padding: 10px; text-align: center; margin: auto}
 
 body {padding-left: 40px; background-color: #a0dc9a}
 
 footer {text-align: center; background-color: #ffb700}
 
-ol {font-size: 20px; border-color: #ec9318; border-width: 6px; border-style: solid; width: fit-content; padding: 30px; margin: auto}
+ol {font-size: 20px; border-color: #ec9318; border-width: 6px; border-style: solid; padding: 30px; margin: auto}
 
-.intro {font-size: 25px; border: 6px solid mediumorchid; padding: 5px; text-align: center; border-radius: 20px; background-color: antiquewhite}
+.intro {text-align: center; font-size: 25px; border: 6px solid #428219; padding: 5px; text-align: center; border-radius: 20px; background-color: #e6afe1}
 
 li {margin: 10px}
 
-li:hover {background-color: #ec18ad}
+li:hover {background-color: #bbf2b6}
 
 html {cursor: default}
 
