@@ -91,17 +91,34 @@ footer p{
     font-size: 20px;
 }
 
-html {cursor: default}
-
-table {width: 100%;}
-
-table, th, td {border: 2px solid  #3e1bdb; border-collapse: collapse; text-align: center; table-layout: fixed;
+html {
+    cursor: default
 }
 
-.selected {background-color: #1bcdec;font-weight: bold; color: black;}
+table {
+    width: 100%;
+}
+
+table, th, td {
+    border: 2px solid  #3e1bdb;
+    border-collapse: collapse; 
+    text-align: center; 
+    table-layout: fixed;
+}
+
+.selected {
+    background-color: #1bcdec;
+    font-weight: bold; 
+    color: black;}
 
 .extra {
     text-align: center;
+}
+
+.icon {
+    color: white;
+    font-size: 30px;
+    margin: 20px;
 }
 
 
